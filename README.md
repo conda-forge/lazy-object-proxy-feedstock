@@ -271,4 +271,5 @@ Feedstock Maintainers
 * [@jakirkham](https://github.com/jakirkham/)
 * [@nehaljwani](https://github.com/nehaljwani/)
 * [@ocefpaf](https://github.com/ocefpaf/)
+* [@xylar](https://github.com/xylar/)
 
