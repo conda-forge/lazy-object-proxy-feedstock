@@ -25,7 +25,7 @@ requirements:
 test:
   imports:
     - lazy_object_proxy
-    - lazy_object_proxy.cext
+    - lazy_object_proxy.cext  # [python_impl != "pypy"]
 
 about:
   home: https://github.com/ionelmc/python-lazy-object-proxy
