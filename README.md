@@ -5,7 +5,7 @@ Home: https://github.com/ionelmc/python-lazy-object-proxy
 
 Package license: BSD-2-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A fast and thorough lazy object proxy
 
