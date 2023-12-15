@@ -1,4 +1,4 @@
-{% set version = "1.9.0" %}
+{% set version = "1.10.0" %}
 
 package:
   name: lazy-object-proxy
@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://pypi.io/packages/source/l/lazy-object-proxy/lazy-object-proxy-{{ version }}.tar.gz
-  sha256: 659fb5809fa4629b8a1ac5106f669cfc7bef26fbb389dda53b3e010d1ac4ebae
+  sha256: 78247b6d45f43a52ef35c25b5581459e85117225408a4128a3daf8bf9648ac69
 
 build:
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
