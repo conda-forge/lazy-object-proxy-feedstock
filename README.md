@@ -11,7 +11,7 @@ Summary: A fast and thorough lazy object proxy
 
 Development: https://github.com/ionelmc/python-lazy-object-proxy
 
-Documentation: https://python-lazy-object-proxy.readthedocs.org
+Documentation: https://python-lazy-object-proxy.readthedocs.org/
 
 Current build status
 ====================
